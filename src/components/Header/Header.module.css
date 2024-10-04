@@ -1,0 +1,17 @@
+.containerNav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.containerOfContainer {
+  background-color: white;
+}
+.linkPages {
+  padding: 10px;
+}
+
+.textPages {
+  color: black;
+}
